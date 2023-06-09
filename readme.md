@@ -16,6 +16,6 @@ Simple Rack Application to demonstrate Rack middleware.
 
 And then
 
-    $ rakcup
+    $ rackup
 
 Check http://localhost:9292
