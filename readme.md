@@ -12,8 +12,10 @@ Simple Rack Application to demonstrate Rack middleware.
 
 # Usage
 
-$ bundle install
+    $ bundle install
 
-$ rakcup
+And then
+
+    $ rakcup
 
 Check http://localhost:9292
